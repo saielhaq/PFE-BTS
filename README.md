@@ -1,4 +1,4 @@
-# Projet de fin d'études
+# End of Studies Project
 
 ## Overview
 
